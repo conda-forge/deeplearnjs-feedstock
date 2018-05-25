@@ -18,12 +18,15 @@ inference mode.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/deeplearnjs-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/deeplearnjs-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/deeplearnjs-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/deeplearnjs-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/deeplearnjs/badges/version.svg)](https://anaconda.org/conda-forge/deeplearnjs)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/deeplearnjs/badges/downloads.svg)](https://anaconda.org/conda-forge/deeplearnjs)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-deeplearnjs-green.svg)](https://anaconda.org/conda-forge/deeplearnjs) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/deeplearnjs.svg)](https://anaconda.org/conda-forge/deeplearnjs) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/deeplearnjs.svg)](https://anaconda.org/conda-forge/deeplearnjs) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/deeplearnjs.svg)](https://anaconda.org/conda-forge/deeplearnjs) |
 
 Installing deeplearnjs
 ======================
