@@ -1,6 +1,6 @@
 {% set name = "deeplearnjs" %}
-{% set version = "0.3.0" %}
-{% set sha256 = "0869f7dc971bff33d380e0eb41c0ba4ce3e053ca953bb940ead059bb5739477d" %}
+{% set version = "0.12.11" %}
+{% set sha256 = "1bcdbf08507f2fff519620995d7ff2dcf7b55f6acb49b9b360db1c7633fd8b5e" %}
 
 package:
   name: {{ name|lower }}
